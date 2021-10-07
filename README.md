@@ -41,6 +41,7 @@ Test your setup by building and running a test program (e.g. [one that talks to 
 1. Copy and paste some code that talks to the serial port into the editor window
 1. Open the Arduino IDE's serial console (using the top right button), and ensure that it is tuned to the correct baud speed, as required by the example you are running.
 1. Build and upload the code using the 'Upload' button, and watch the result on the serial port.
+1. Hold the 'Boot' button for 1+ secs to enter bootmode on the esp32
 
 
 <br>
